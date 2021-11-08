@@ -1,6 +1,7 @@
 # Sustainable Development Insights (SDI)
 ## Project title: Gaining Sustainable Development Insights for Data Driven Decision Making Through Artificial Intelligence
 *By: Enrique Labre*
+
 *The Bronx High School of Science*
 
 **Abstract**
